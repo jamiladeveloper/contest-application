@@ -1,0 +1,2 @@
+# contest-application
+Host contests
